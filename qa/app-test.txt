@@ -1,0 +1,5 @@
+OK: open-ended solo practice, tile refills and rewards, full duel, ratings, leaderboard rows, language switch and shop.
+tr 16 rounds 193 186
+en 23 rounds 229 263
+tr 11 different opening tiles across 25 launches
+en 14 different opening tiles across 25 launches

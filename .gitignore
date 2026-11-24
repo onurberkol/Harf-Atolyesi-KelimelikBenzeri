@@ -1,0 +1,9 @@
+.DS_Store
+game/data/
+game-data/
+.local/
+*.jks
+*.keystore
+*.mobileprovision
+*.sqlite-wal
+*.sqlite-shm

@@ -1,0 +1,1 @@
+Compared 50,500 placements against the reference (789 accepted), plus targeted crossing cases.
